@@ -7,9 +7,9 @@
 			<Plurality>1</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_WARRIOR_NAME">
-		  <Text>Krigare|Krigares|Krigaren|Krigarens|Krigare|Krigares|Krigarna|Krigarnas</Text>
-		  <Gender>feminine</Gender>
-		  <Plurality>1</Plurality>
+			<Text>Krigare|Krigares|Krigaren|Krigarens|Krigare|Krigares|Krigarna|Krigarnas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Replace>
    </LocalizedText>
 </GameData>
