@@ -1,5 +1,5 @@
 # Civilization6_SwedishTranslation
-A projekt för att översätta Civilization 6 till Svenska
+Ett projekt för att översätta Civilization 6 till Svenska
 
 För att testa skapa en mapp "Text" här: 
 ..\Documents\My Games\Sid Meier's Civilization VI\
