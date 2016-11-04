@@ -240,7 +240,7 @@
 			<Text>La Venta</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
-			<Text>Lisbon</Text>
+			<Text>Lissabon</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
 			<Text>Mohenjo-Daro</Text>
@@ -255,24 +255,24 @@
 			<Text>Seoulite</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
-			<Text>Stockholmer</Text>
+			<Text>Stockholmare</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
-			<Text>Torontonian</Text>
+			<Text>Torontier</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
 			<Text>Valletta</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
-			<Text>Vilnian</Text>
+			<Text>Vilnisk</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
 			<Text>Yerevantsi</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
-			<Text>Zanzibari</Text>
+			<Text>Zanzibarisk</Text>
 		</Replace>
 		<!-- Civ Traits-->
 		<Replace  Language="sv_SE" Tag="LOC_TRAIT_PLACEHOLDER">
