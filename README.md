@@ -1,2 +1,2 @@
 # Civilization6_SwedishTranslation
-A project to translate Civilization 6 to Swedish
+A projekt för att översätta Civilization 6 till Svenska
