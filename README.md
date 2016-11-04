@@ -11,5 +11,5 @@ När du är klar har du en sökväg:
 Här lägger du xml filerna och LocalizationDatabase_Data.sql
 Sedan kör du igång Civilization 6 och då borde Svenska dykt upp som val i menyn i Options - > Language. 
 
-Välj Svenska och starta om Civilization 6 
+Välj Svenska och starta om Civilization 6. 
 Nu kommer allt som är översatt att bli på svenska - tyvärr så defaultar allt som vi inte översatt till tyska men vi jobbar på att de i alla fall ska komma på engelska istället, tills allt är färdigöversatt till svenska.
