@@ -3,190 +3,190 @@
 <GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<LocalizedText>
 		<Replace Language="sv_SE" Tag="LOC_TECH_POTTERY_DESCRIPTION">
-			<Text>Allows harvesting of [ICON_RESOURCE_WHEAT] Wheat and [ICON_RESOURCE_RICE] Rice.</Text>
+			<Text>Tillåter skördandet av [ICON_RESOURCE_WHEAT] Vete och [ICON_RESOURCE_RICE] Ris.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
-			<Text>Allows harvesting of [ICON_RESOURCE_CATTLE] Cattle and [ICON_RESOURCE_SHEEP] Sheep.</Text>
+			<Text>Tillåter skördandet av [ICON_RESOURCE_CATTLE] Boskap och [ICON_RESOURCE_SHEEP] Får.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_MINING_DESCRIPTION">
-			<Text>Allows chopping of Woods, and harvesting of [ICON_RESOURCE_Copper] Copper.</Text>
+			<Text>Tillåter nedhuggning av Skog, och skördandet av [ICON_RESOURCE_Copper] Koppar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SAILING_DESCRIPTION">
-			<Text>Allows Builders to embark.</Text>
+			<Text>Tillåter Byggare att gå till havs.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
-			<Text>Allows clearing of Marsh.</Text>
+			<Text>Tillåter röjning av Kärr.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_MASONRY_DESCRIPTION">
-			<Text>Allows harvesting of [ICON_RESOURCE_STONE] Stone.</Text>
+			<Text>Tillåter skördandet av [ICON_RESOURCE_STONE] Sten.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
-			<Text>Allows chopping of Rainforest. Reveals [ICON_RESOURCE_IRON] Iron.</Text>
+			<Text>Tillåter nedhuggning av Regnskog. Avslöjar [ICON_RESOURCE_IRON] Järn.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
-			<Text>Allows all land units to embark.</Text>
+			<Text>Tillåter alla landenheter att gå till havs.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
-			<Text>Allows Traders to embark, and allows harvesting of [ICON_RESOURCE_FISH] Fish.</Text>
+			<Text>Tillåter Handlare att gå till havs, och tillåter skördandet av [ICON_RESOURCE_FISH] Fisk.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
-			<Text>+1 [ICON_Movement] Movement for all naval units.</Text>
+			<Text>+1 [ICON_Movement] Förflyttning för alla sjöfartsenheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production to the Mine improvement.</Text>
+			<Text>+1 [ICON_Production] Produktion för Gruvor.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CASTLES_DESCRIPTION">
-			<Text>Bonus [ICON_Culture] Culture for the Great Wall improvement for adjacency. Gain the ability to construct a Spy if playing as Catherine de Medici.</Text>
+			<Text>Bonus [ICON_Culture] Kultur för närhet till den Kinesiska Muren förbättringen. Få möjligheten att träna Spioner om du spelar som Catherine de Medici.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Gold from the Fishing Boat improvement. All naval and embarked units can navigate Ocean tiles. +1 [ICON_Movement] Movement for embarked units.</Text>
+			<Text>+1 [ICON_Gold] Guld från Fiskebåts förbättringen. Alla sjöfarts- och sjösatta enheter kan färdas över Havsrutor. +1 [ICON_Movement] Förflyttning för sjösatta enheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_BANKING_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Gold from the Quarry improvement.</Text>
+			<Text>+1 [ICON_Gold] Guld från Stenbrottsförbättringen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_PRINTING_DESCRIPTION">
-			<Text>Provides one more level of diplomatic visibility on all other civilizations. All [ICON_Tourism] Tourism yields from [ICON_GreatWork_Writing] Great Works of Writing are doubled.</Text>
+			<Text>Ger ytterligare en nivå av diplomatisk synlighet på alla andra civilizationer. All [ICON_Tourism] turismavkastning från [ICON_GreatWork_Writing] Stora Verk i Skrift fördubblas.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production to the Mine improvement.</Text>
+			<Text>+1 [ICON_Production] Produktion för Gruvförbättringen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
-			<Text>Allows Research Agreement diplomatic action. +1 [ICON_Food] Food from the Plantation improvement.</Text>
+			<Text>Tillåter Forskningsavtal som diplomatisk handling. +1 [ICON_Food] Mat från Plantageförbättringen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SANITATION_DESCRIPTION">
-			<Text>Stepwell improvements receive +1 [ICON_Housing] Housing.</Text>
+			<Text>Trappbrunnsförbättringen får +1 [ICON_Housing] Bostäder.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
-			<Text>+2 [ICON_Movement] Movement for embarked units.</Text>
+			<Text>+2 [ICON_Movement] Förflyttning för sjösatta enheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FLIGHT_DESCRIPTION">
-			<Text>Bonus [ICON_Tourism] Tourism to all improvements that provide [ICON_Culture] Culture.</Text>
+			<Text>Bonus [ICON_Tourism] Turism för alla förbättringar som ger [ICON_Culture] Kultur.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
-			<Text>Upgrades Farm improvements to Mechanized Agriculture. +1 [ICON_Food] Food Adjacency bonus for every Farm improvement they are adjacent to.</Text>
+			<Text>Uppgraderar Bondgårdsförbättringar till Mekaniserat Jordbruk. +1 [ICON_Food] Mat närhetsbonus för varje Bondgård som de ligger i närheten.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_STEEL_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production from the Lumber Mill improvement.</Text>
+			<Text>+1 [ICON_Production] Produktion från Skogsverksförbättringen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
-			<Text>+1 [ICON_Movement] Movement for embarked units.</Text>
+			<Text>+1 [ICON_Movement] Förflyttning för sjösatta enheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production from the Quarry improvement.</Text>
+			<Text>+1 [ICON_Production] Produktion från Stenbrottsförbättringen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_PLASTICS_DESCRIPTION">
-			<Text>+1 [ICON_Food] Food to Fishing Boats.</Text>
+			<Text>+1 [ICON_Food] Mat för Fiskebåtar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
-			<Text>Grants the ability to construct an additional Spy. All [ICON_Tourism] Tourism yields are doubled.</Text>
+			<Text>Ger möjligheten att träna ytterligare en spion. All [ICON_Tourism] Tourismavkasting dubblerad.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Gold to Camps.</Text>
+			<Text>+1 [ICON_Gold] Guld för Läger.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production to Pastures.</Text>
+			<Text>+1 [ICON_Production] Produktion för Betesmarker.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
-			<Text>Can be completed multiple times, increasing your points towards the Score Victory.</Text>
+			<Text>Kan färdigställas flera gångger, för att öka poängen mot Poängsegern.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SAILING">
-			<Text>Found a city on the Coast.</Text>
+			<Text>Grunda en stad vid kusten.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
-			<Text>Find a natural wonder.</Text>
+			<Text>Hitta en Naturunder.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_IRRIGATION">
-			<Text>Farm a resource.</Text>
+			<Text>Skörda en resurs.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ARCHERY">
-			<Text>Kill a unit with a Slinger.</Text>
+			<Text>Döda en enhet men en Slungare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_WRITING">
-			<Text>Meet another civilization.</Text>
+			<Text>Möt en annan Civilisation.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MASONRY">
-			<Text>Build a Quarry.</Text>
+			<Text>Bygg ett Stenbrott.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
-			<Text>Kill 3 Barbarians.</Text>
+			<Text>Döda 3 Barbarer.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
-			<Text>Mine a resource.</Text>
+			<Text>Bygg en gruva över en resurs.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
-			<Text>Improve 2 sea resources.</Text>
+			<Text>Förbättra 2 havs resurser.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CURRENCY">
-			<Text>Make a [ICON_TradeRoute] Trade Route.</Text>
+			<Text>Gör en [ICON_TradeRoute] Handelsrutt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
-			<Text>Build a Pasture.</Text>
+			<Text>Bygg en Betesmark.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
-			<Text>Build an Iron Mine.</Text>
+			<Text>Bygg en Järngruva.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
-			<Text>Own 2 Galleys.</Text>
+			<Text>Own 2 Galär.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
-			<Text>Build 3 different specialty districts.</Text>
+			<Text>Bygg 3 olika special Distrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
-			<Text>Build a Water Mill.</Text>
+			<Text>Bygg en vattenkvarn.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ENGINEERING">
-			<Text>Build Ancient Walls.</Text>
+			<Text>Bygg Antika Murar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
-			<Text>Kill a unit with a Spearman.</Text>
+			<Text>Döda en enhet med en Spjutman.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
-			<Text>Build 3 Mines.</Text>
+			<Text>Bygg 3 Mines.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
-			<Text>Have the Feudalism civic.</Text>
+			<Text>Ha Feudalism inriktning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MACHINERY">
-			<Text>Own 3 Archers.</Text>
+			<Text>Äg 3 bågskyttar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_EDUCATION">
-			<Text>Earn a Great Scientist.</Text>
+			<Text>Förtjäna en Stor Vetenskapsman.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
-			<Text>Build an Aqueduct.</Text>
+			<Text>Bygg en Akvedukt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CASTLES">
-			<Text>Have a government with 6 policy slots.</Text>
+			<Text>Ha en regering med 6 policy slots.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
-			<Text>Build 2 Harbors.</Text>
+			<Text>Bygg 2 Harbors.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
-			<Text>Build a Lumber Mill.</Text>
+			<Text>Bygg a Lumber Mill.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_BANKING">
-			<Text>Have the Guilds civic.</Text>
+			<Text>Ha Skrå inriktningen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
-			<Text>Build an Armory.</Text>
+			<Text>Bygg en Arsenal.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_PRINTING">
-			<Text>Build 2 Universities.</Text>
+			<Text>Bygg 2 Universitet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
-			<Text>Kill a unit with a Musketman.</Text>
+			<Text>Döda en enhet med en Musketman.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
-			<Text>Build a University adjacent to a Mountain.</Text>
+			<Text>Bygg ett Universitet bredvid ett Berg.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
-			<Text>Own 2 Crossbowman.</Text>
+			<Text>Own 2 Armborstskytt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
 			<Text>Own 2 Bombards.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
-			<Text>Build 3 Workshops.</Text>
+			<Text>Bygg 3 Verkstäder.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
 			<Text>Have The Enlightenment civic.</Text>
@@ -195,34 +195,34 @@
 			<Text>Have 2 Forts in your territory.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
-			<Text>Kill a unit with a Knight.</Text>
+			<Text>Döda en enhet with a Knight.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
-			<Text>Build 2 Shipyards.</Text>
+			<Text>Bygg 2 Shipyards.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SANITATION">
-			<Text>Build 2 Neighborhoods.</Text>
+			<Text>Bygg 2 Neighborhoods.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ECONOMICS">
-			<Text>Build 2 Banks.</Text>
+			<Text>Bygg 2 Banks.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_RIFLING">
-			<Text>Build a Niter Mine.</Text>
+			<Text>Bygg a Niter Mine.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_FLIGHT">
-			<Text>Build an Industrial era or later wonder.</Text>
+			<Text>Bygg an Industrial era or later wonder.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
 			<Text>Own 3 Musketman.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STEEL">
-			<Text>Build a Coal Mine.</Text>
+			<Text>Bygg a Coal Mine.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
 			<Text>Own 3 Privateers.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_RADIO">
-			<Text>Build a National Park.</Text>
+			<Text>Bygg a National Park.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
 			<Text>Complete a Research Agreement.</Text>
@@ -231,25 +231,25 @@
 			<Text>Extract an Artifact.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
-			<Text>Build 3 Biplanes.</Text>
+			<Text>Bygg 3 Biplanes.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
-			<Text>Build 2 Power Plants.</Text>
+			<Text>Bygg 2 Power Plants.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
-			<Text>Build an Airstrip.</Text>
+			<Text>Bygg an Airstrip.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_PLASTICS">
-			<Text>Build an Oil Well.</Text>
+			<Text>Bygg an Oil Well.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COMPUTERS">
 			<Text>Have a government with 8 policy slots.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
-			<Text>Build 2 Aerodromes.</Text>
+			<Text>Bygg 2 Aerodromes.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
-			<Text>Build 2 Broadcast Centers.</Text>
+			<Text>Bygg 2 Broadcast Centers.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
 			<Text>Kill a Fighter.</Text>
@@ -261,7 +261,7 @@
 			<Text>Have the Globalization civic.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
-			<Text>Build an Aluminium Mine.</Text>
+			<Text>Bygg an Aluminium Mine.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
 			<Text>Boost through Great Scientist or Spy.</Text>
