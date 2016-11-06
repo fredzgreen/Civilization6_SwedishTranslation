@@ -60,226 +60,219 @@
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
 			<Text>Sumeriska riket</Text>
 		</Replace>
-		<!-- stadsstat riket Names-->
+		<!-- City-State Empire Names-->
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
-			<Text>Amsterdam stadsstat</Text>
+			<Text>stadsstaten Amsterdam</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
-			<Text>Bryssel stadsstat</Text>
+			<Text>stadsstaten Bryssel</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION">
-			<Text>Buenos Aires stadsstat</Text>
+			<Text>stadsstaten Buenos Aires</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION">
-			<Text>Kartago stadsstat</Text>
+			<Text>stadsstaten Kartago</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION">
-			<Text>Genève stadsstat</Text>
+			<Text>stadsstaten Genève</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION">
-			<Text>Hattusa stadsstat</Text>
+			<Text>stadsstaten Hattusa</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
-			<Text>Hong Kong stadsstat</Text>
+			<Text>stadsstaten Hong Kong</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
-			<Text>Jakarta stadsstat</Text>
+			<Text>stadsstaten Jakarta</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION">
-			<Text>Jerusalem stadsstat</Text>
+			<Text>stadsstaten Jerusalem</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_KABUL_DESCRIPTION">
-			<Text>Kabul stadsstat</Text>
+			<Text>stadsstaten Kabul</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION">
-			<Text>Kandy stadsstat</Text>
+			<Text>stadsstaten Kandy</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_KUMASI_DESCRIPTION">
-			<Text>Kumasi stadsstat</Text>
+			<Text>stadsstaten Kumasi</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_LA_VENTA_DESCRIPTION">
-			<Text>La Venta stadsstat</Text>
+			<Text>stadsstaten La Venta</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_LISBON_DESCRIPTION">
-			<Text>Lissabon stadsstat</Text>
+			<Text>stadsstaten Lissabon</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION">
-			<Text>Mohenjo-Daro stadsstat</Text>
+			<Text>stadsstaten Mohenjo-Daro</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION">
-			<Text>Preslav stadsstat</Text>
+			<Text>stadsstaten Preslav</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION">
-			<Text>Nan Madol stadsstat</Text>
+			<Text>stadsstaten Nan Madol</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_SEOUL_DESCRIPTION">
-			<Text>Seoul stadsstat</Text>
+			<Text>stadsstaten Seoul</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION">
-			<Text>Stockholm stadsstat</Text>
+			<Text>stadsstaten Stockholm</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_TORONTO_DESCRIPTION">
-			<Text>Toronto stadsstat</Text>
+			<Text>stadsstaten Toronto</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION">
-			<Text>Valletta stadsstat</Text>
+			<Text>stadsstaten Valletta</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION">
-			<Text>Vilnius stadsstat</Text>
+			<Text>stadsstaten Vilnius</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION">
-			<Text>Yerevan stadsstat</Text>
+			<Text>stadsstaten Jerevan</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION">
-			<Text>Zanzibar stadsstat</Text>
+			<Text>stadsstaten Zanzibar</Text>
 		</Replace>
 		<!-- Adjectives -->
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
-			<Text>Amerikansk</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>amerikansk|amerikanska|amerikansk|amerikanske|amerikanskt|amerikanska|amerikanska|amerikanska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
-			<Text>Arabisk</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>arabisk|arabiska|arabisk|arabiske|arabiskt|arabiska|arabiska|arabiska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
-			<Text>Barbar</Text>
+			<Text>barbar|barbar|barbar|barbar|barbar|barbar|barbar|barbar</Text>
+			<Gender>feminine:no_space|feminine:no_space|masculine:no_space|masculine:no_space|neuter:no_space|neuter:no_space|feminine:no_space|feminine:no_space</Gender>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
-			<Text>Brasiliansk</Text>
+			<Text>brasiliansk|brasilianska|brasiliansk|brasilianske|brasilianskt|brasilianska|brasilianska|brasilianska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
-			<Text>Kinesisk</Text>
+			<Text>kinesisk|kinesiska|kinesisk|kinesiske|kinesiskt|kinesiska|kinesiska|kinesiska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
-			<Text>Egyptisk</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>egyptisk|egyptiska|egyptisk|egyptiske|egyptiskt|egyptiska|egyptiska|egyptiska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
-			<Text>Engelsk</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>engelsk|engelska|engelsk|engelske|engelskt|engelska|engelska|engelsk</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
-			<Text>Fransk</Text>
+			<Text>fransk|franska|fransk|franske|franskt|franska|franska|franska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
-			<Text>Tysk</Text>
+			<Text>tysk|tyska|tysk|tyske|tyskt|tyska|tyska|tyska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
-			<Text>Grekisk</Text>
+			<Text>grekisk|grekiska|grekisk|grekiske|grekiskt|grekiska|grekiska|grekiska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
-			<Text>Indisk</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>indisk|indiska|indisk|indiske|indiskt|indiska|indiska|indiska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
-			<Text>Japansk</Text>
+			<Text>japansk|japanska|japansk|japanske|japanskt|japanska|japanska|japanska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
-			<Text>Kongolesisk</Text>
+			<Text>kongolesisk|kongolesiska|kongolesisk|kongolesiske|kongolesiskt|kongolesiska|kongolesiska|kongolesiska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
-			<Text>Norsk</Text>
+			<Text>norsk|norska|norsk|norske|norskt|norska|norska|norska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
-			<Text>Romersk</Text>
+			<Text>romersk|romerska|romersk|romerske|romerskt|romerska|romerska|romerska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
-			<Text>Rysk</Text>
+			<Text>rysk|ryska|rysk|ryske|ryskt|ryska|ryska|ryska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
-			<Text>Skytisk</Text>
+			<Text>skytisk|skytiska|skytisk|skytiske|skytiskt|skytiska|skytiska|skytiska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
-			<Text>Spansk</Text>
+			<Text>spansk|spanska|spansk|spanske|spanskt|spanska|spanska|spanska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
-			<Text>Sumerisk</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>sumerisk|sumeriska|sumerisk|sumeriske|sumeriskt|sumeriska|sumeriska|sumeriska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
-			<Text>Amsterdamsk</Text>
+			<Text>amsterdamsk|amsterdamska|amsterdamsk|amsterdamske|amsterdamskt|amsterdamska|amsterdamska|amsterdamska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
-			<Text>Brysselsk</Text>
+			<Text>brysselsk|brysselska|brysselsk|brysselske|brysselskt|brysselska|brysselska|brysselska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
-			<Text>Buenos Aires</Text>
+			<Text>buenosairisk|buenosairiska|buenosairisk|buenosairiske|buenosairiskt|buenosairiska|buenosairiska|buenosairiska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
-			<Text>Kartagisk</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>kartagisk|kartagiska|kartagisk|kartagiske|kartagiskt|kartagiska|kartagiska|kartagiska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
-			<Text>Genevese</Text>
+			<Text>genevsk|genevska|genevsk|genevske|genevskt|genevska|genevska|genevska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE">
-			<Text>Hattusa</Text>
+			<Text>hattusisk|hattusiska|hattusisk|hattusiske|hattusiskt|hattusiska|hattusiska|hattusiska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
-			<Text>Hongkongese</Text>
+			<Text>Hongkong-|Hongkong-|Hongkong-|Hongkong-|Hongkong-|Hongkong-|Hongkong-|Hongkong-</Text>
+			<Gender>feminine:no_space|feminine:no_space|masculine:no_space|masculine:no_space|neuter:no_space|neuter:no_space|feminine:no_space|feminine:no_space</Gender>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
-			<Text>Jakartan</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>jakartansk|jakartanska|jakartansk|jakartanske|jakartanskt|jakartanska|jakartanska|jakartanska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
-			<Text>Jerusalem</Text>
+			<Text>jerusalemsk|jerusalemska|jerusalemsk|jerusalemske|jerusalemskt|jerusalemska|jerusalemska|jerusalemska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
-			<Text>Kabul</Text>
+			<Text>kabulsk|kabulska|kabulsk|kabulske|kabulskt|kabulska|kabulska|kabulska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
-			<Text>Kandyan</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>kandyansk|kandyanska|kandyansk|kandyanske|kandyanskt|kandyanska|kandyanska|kandyanska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">
-			<Text>Kumasi</Text>
+			<Text>kumasisk|kumasiska|kumasisk|kumasiske|kumasiskt|kumasiska|kumasiska|kumasiska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_LA_VENTA_ADJECTIVE">
-			<Text>La Venta</Text>
+			<Text>La Venta-|La Venta-|La Venta-|La Venta-|La Venta-|La Venta-|La Venta-|La Venta-</Text>
+			<Gender>feminine:no_space|feminine:no_space|masculine:no_space|masculine:no_space|neuter:no_space|neuter:no_space|feminine:no_space|feminine:no_space</Gender>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
-			<Text>Lissabon</Text>
+			<Text>lissabonsk|lissabonska|lissabonsk|lissabonske|lissabonskt|lissabonska|lissabonska|lissabonska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
-			<Text>Mohenjo-Daro</Text>
+			<Text>mohenjodaroansk|mohenjodaroanska|mohenjodaroansk|mohenjodaroanske|mohenjodaroanskt|mohenjodaroanska|mohenjodaroanska|mohenjodaroanska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE">
-			<Text>Preslav</Text>
+			<Text>preslavsk|preslavska|preslavsk|preslavske|preslavskt|preslavska|preslavska|preslavska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE">
-			<Text>Nan Madol</Text>
+			<Text>nanmadolsk|nanmadolska|nanmadolsk|nanmadolske|nanmadolskt|nanmadolska|nanmadolska|nanmadolska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_SEOUL_ADJECTIVE">
-			<Text>Seoulite</Text>
+			<Text>seoulsk|seoulska|seoulsk|seoulske|seoulskt|seoulska|seoulska|seoulska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
-			<Text>Stockholmare</Text>
+			<Text>stockholmsk|stockholmska|stockholmsk|stockholmske|stockholmskt|stockholmska|stockholmska|stockholmska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
-			<Text>Torontier</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>Toronto-|Toronto-|Toronto-|Toronto-|Toronto-|Toronto-|Toronto-|Toronto-</Text>
+			<Gender>feminine:no_space|feminine:no_space|masculine:no_space|masculine:no_space|neuter:no_space|neuter:no_space|feminine:no_space|feminine:no_space</Gender>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
-			<Text>Valletta</Text>
+			<Text>vallettansk|vallettanska|vallettansk|vallettanske|vallettanskt|vallettanska|vallettanska|vallettanska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
-			<Text>Vilnisk</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>vilnisk|vilniska|vilnisk|vilniske|vilniskt|vilniska|vilniska|vilniska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
-			<Text>Yerevantsi</Text>
+			<Text>jerevantisk|jerevantiska|jerevantisk|jerevantiske|jerevantiskt|jerevantiska|jerevantiska|jerevantiska</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
-			<Text>Zanzibarisk</Text>
+			<Text>zanzibarisk|zanzibariska|zanzibarisk|zanzibariske|zanzibariskt|zanzibariska|zanzibariska|zanzibariska</Text>
 		</Replace>
 		<!-- Civ Traits-->
 		<Replace  Language="sv_SE" Tag="LOC_TRAIT_PLACEHOLDER">
 			<Text>[PLACEHOLDER] Ingen unik färdighet implementerad</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
-			<Text>Amazon</Text>
+			<Text>Amazonas</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
 			<Text>Regnskogs brickor provide +1 adjacency bonus for Campus, Commercial Hub, Holy Site, and Theater Square districts. Rainforest tiles provide +1 [ICON_Housing] Housing for Neighborhoods built adjacent to them.</Text>
@@ -291,10 +284,10 @@
 			<Text>[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provide 60% of civics and technologies instead of 50%.</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
-			<Text>Inexpensive Builders</Text>
+			<Text>Billiga Byggare</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_DESCRIPTION">
-			<Text>Train Builders in half the usual time.</Text>
+			<Text>Träna Byggare på hälften så lång tid som normalt.</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
 			<Text>Meiji Restoration</Text>
@@ -309,7 +302,7 @@
 			<Text>Each Archaeological Museum holds 6 [ICON_GreatWork_Artifact] Artifacts instead of 3 and can support 2 Archaeologists at once. Archaeological Museums are automatically themed when they have 6 [ICON_GreatWork_Artifact] Artifacts.</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
-			<Text>People of the Steppe</Text>
+			<Text>Stäppens folk</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
 			<Text>Receive a second light cavalry unit or Saka Horse Archer each time you train a light cavalry unit or Saka Horse Archer.</Text>
@@ -339,7 +332,7 @@
 			<Text>One extra Wildcard policy slot in any government.</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
-			<Text>Mother Russia</Text>
+			<Text>Moder Ryssland</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
 			<Text>Extra territory upon founding cities. +1 [ICON_Faith] Faith and +1 [ICON_Production] Production from Tundra.</Text>
@@ -400,232 +393,232 @@
 		</Replace>
 		<!-- Civilization Info -->
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_LOCATION">
-			<Text>Location</Text>
+			<Text>Plats</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SIZE">
-			<Text>Size</Text>
+			<Text>Storlek</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_POPULATION">
-			<Text>Population</Text>
+			<Text>Befolkning</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_CAPITAL">
-			<Text>Capital</Text>
+			<Text>Huvudstad</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_AMERICA_LOCATION">
-			<Text>North America</Text>
+			<Text>Nordamerika</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_AMERICA_SIZE">
-			<Text>Roughly 3.8 million square miles (9.6 million square kilometers)</Text>
+			<Text>Ungefär 9,6 miljoner kvadratkilometer</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_AMERICA_POPULATION">
-			<Text>About 318 million</Text>
+			<Text>Ungefär 318 miljoner</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_AMERICA_CAPITAL">
-			<Text>Various (Philadelphia, New York, currently Washington)</Text>
+			<Text>Olika (Philadelphia, New York, för närvarande Washington)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_ARABIA_LOCATION">
-			<Text>Asia-Africa</Text>
+			<Text>Asien-Afrika</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_ARABIA_SIZE">
-			<Text>Under Umayyad Caliphate, Est. 5.79 million square miles (15 million square km)</Text>
+			<Text>Under Umayyaderna, cirka 15 miljoner kvadratkilometer)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_ARABIA_POPULATION">
-			<Text>Under Umayyads, around 34 million</Text>
+			<Text>Under Umayyaderna, ungefär 34 miljoner</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_ARABIA_CAPITAL">
-			<Text>Many (Medina, Kufa, Damascus, Baghdad, Cairo)</Text>
+			<Text>Många (Medina, Kufa, Damaskus, Bagdad, Kairo)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_BRAZIL_LOCATION">
-			<Text>South America</Text>
+			<Text>Sydamerika</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_BRAZIL_SIZE">
-			<Text>Some 3.29 million square miles (8.5 million square km)</Text>
+			<Text>Cirka 8,5 miljoner kvadratkilometer</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_BRAZIL_POPULATION">
-			<Text>Est. 193 million</Text>
+			<Text>Cirka 193 miljoner</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_BRAZIL_CAPITAL">
-			<Text>Various (Salvador, Rio de Janeiro, currently Brasilia)</Text>
+			<Text>Olika (Salvador, Rio de Janeiro, för närvarande Brasília)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_CHINA_LOCATION">
-			<Text>Asia</Text>
+			<Text>Asien</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_CHINA_SIZE">
-			<Text>Est. 3.7 million square miles (9.6 million square km)</Text>
+			<Text>Cirka 9,6 miljoner kvadratkilometer</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_CHINA_POPULATION">
-			<Text>1.1 billion in 1990</Text>
+			<Text>1,1 miljarder år 1990</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_CHINA_CAPITAL">
-			<Text>Many (the four primary ones: Beijing, Nanjing, Luoyang, and Chang'an)</Text>
+			<Text>Många (de fyra viktigaste: Peking, Nanking, Luoyang, och Chang'an)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_ENGLAND_LOCATION">
-			<Text>Europe</Text>
+			<Text>Europa</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_ENGLAND_SIZE">
-			<Text>Roughly 94 thousand square miles (243458.88 square km)</Text>
+			<Text>Drygt 240 000 kvadratkilometer)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_ENGLAND_POPULATION">
-			<Text>Est. 64.1 million</Text>
+			<Text>Ungefär 64,1 miljoner</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_ENGLAND_CAPITAL">
-			<Text>London (generally)</Text>
+			<Text>London (vanligen)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_EGYPT_LOCATION">
-			<Text>Africa</Text>
+			<Text>Afrika</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_EGYPT_SIZE">
-			<Text>Est. 390 thousand square miles (1 million square km)</Text>
+			<Text>Cirka 1 miljon kvadratkilometer)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_EGYPT_POPULATION">
-			<Text>Est. 7.5 million (Ptolemaic Dynasty)</Text>
+			<Text>Cirka 7,5 miljoner (Ptolemeiska dynastin)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_EGYPT_CAPITAL">
-			<Text>Various (Memphis, Thebes, Alexandria, Cairo)</Text>
+			<Text>Olika (Memfis, Thebe, Alexandria, Kairo)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_FRANCE_LOCATION">
-			<Text>Europe</Text>
+			<Text>Europa</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_FRANCE_SIZE">
-			<Text>Est. 246.2 thousand square miles (640.6 thousand square km)</Text>
+			<Text>Cirka 640 000 kvadratkilometer)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_FRANCE_POPULATION">
-			<Text>Est. 66.6 million</Text>
+			<Text>Cirka 66,6 miljoner</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_FRANCE_CAPITAL">
-			<Text>Various (Orleans, Tours, Versailles, Vichy, mostly Paris)</Text>
+			<Text>Olika (Orleans, Tours, Versailles, Vichy, mest Paris)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_GERMANY_LOCATION">
-			<Text>Europe</Text>
+			<Text>Europa</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_GERMANY_SIZE">
-			<Text>Est. 390 thousand square miles ( 1 million square km in 1050 AD)</Text>
+			<Text>1 miljon kvadratkilometer år 1050</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_GERMANY_POPULATION">
-			<Text>Est. 26.3 million (in 1780 AD)</Text>
+			<Text>Cirka 26,3 miljoner (år 1780)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_GERMANY_CAPITAL">
-			<Text>None (wherever the Emperor was)</Text>
+			<Text>Ingen (huvudstaden var där kejsaren befann sig)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_GREECE_LOCATION">
-			<Text>Europe</Text>
+			<Text>Europa</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_GREECE_SIZE">
-			<Text>Roughly (very) 50.9 thousand square miles (131.9 thousand square km)</Text>
+			<Text>Cirka 132 000 kvadratkilometer)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_GREECE_POPULATION">
-			<Text>Est. 667.5 thousand (during Peloponnesian War)</Text>
+			<Text>Ungefär 667 500 (under peloponnesiska kriget)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_GREECE_CAPITAL">
-			<Text>All of the cities, but primarily Sparta and Athens</Text>
+			<Text>Alla städerna, men främst Sparta och Aten</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_INDIA_LOCATION">
-			<Text>Asia</Text>
+			<Text>Asien</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_INDIA_SIZE">
-			<Text>Est. 1.3 square miles (3.3 million square km)</Text>
+			<Text>Cirka 3,3 miljoner kvadratkilometer</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_INDIA_POPULATION">
-			<Text>Est. 1.2 billion (increasing daily)</Text>
+			<Text>Cirka 1,2 miljarder</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_INDIA_CAPITAL">
-			<Text>Various (Calcutta, Delhi, now New Delhi)</Text>
+			<Text>Olika (Calcutta, Delhi, nu New Delhi)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_JAPAN_LOCATION">
-			<Text>Asia</Text>
+			<Text>Asien</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_JAPAN_SIZE">
-			<Text>Est. 146 thousand square miles (378 thousand square km)</Text>
+			<Text>Cirka 378 000 kvadratkilometer</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_JAPAN_POPULATION">
-			<Text>Latest 126.4 million</Text>
+			<Text>Senast 126,4 miljoner</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_JAPAN_CAPITAL">
-			<Text>Various (too numerous to list until Kyoto; currently Tokyo)</Text>
+			<Text>Olika (för många för att räkna upp innan Kyoto; för närvarande Tokyo)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_KONGO_LOCATION">
-			<Text>Africa</Text>
+			<Text>Afrika</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_KONGO_SIZE">
-			<Text>At greatest extent, 49.9 thousand square miles (129.4 thousand square km)</Text>
+			<Text>Som mest 129 400 kvadratkilometer</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_KONGO_POPULATION">
-			<Text>Est. 509 thousand in 1650 AD</Text>
+			<Text>Cirka 509 000 år 1650</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_KONGO_CAPITAL">
-			<Text>M'banza Kongo</Text>
+			<Text>Mbanza-Kongo</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_NORWAY_LOCATION">
-			<Text>Europe</Text>
+			<Text>Europa</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_NORWAY_SIZE">
-			<Text>Est. 148.7 thousand square miles (385.2 thousand square km)</Text>
+			<Text>Cirka 385 200 kvadratkilometer)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_NORWAY_POPULATION">
-			<Text>Most recent est. 5.1 million</Text>
+			<Text>Senast cirka 5,1 miljoner</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_NORWAY_CAPITAL">
-			<Text>Various (Trondheim, Bergen, and Oslo)</Text>
+			<Text>Olika (Trondheim, Bergen och Oslo)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_ROME_LOCATION">
-			<Text>Europe (and Asia Minor, Africa, Middle East and other bits)</Text>
+			<Text>Europa (och Mindre Asien, Afrika, Mellanöstern och andra delar)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_ROME_SIZE">
-			<Text>Some 2.5 million square miles (6.5 million square km) under Trajan</Text>
+			<Text>Ungefär 6,5 miljoner kvadratkilometer under Trajanus</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_ROME_POPULATION">
-			<Text>Est. 88 million (at peak)</Text>
+			<Text>Cirka 88 miljoner (som mest)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_ROME_CAPITAL">
-			<Text>Rome</Text>
+			<Text>Rom</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_RUSSIA_LOCATION">
-			<Text>Europe-Asia (and briefly a piece of North America)</Text>
+			<Text>Europa-Asien (och kortvarigt en del av Nordamerika)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_RUSSIA_SIZE">
-			<Text>Some 8.4 million square miles (21.8 million square km)</Text>
+			<Text>Ungefär 21,8 miljoner kvadratkilometer</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_RUSSIA_POPULATION">
-			<Text>Est. 181.5 million</Text>
+			<Text>Cirka 181,5 miljoner</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_RUSSIA_CAPITAL">
-			<Text>Moscow, then St. Petersburg</Text>
+			<Text>Moskva, sen St. Petersburg</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SCYTHIA_LOCATION">
-			<Text>Asia</Text>
+			<Text>Asien</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SCYTHIA_SIZE">
-			<Text>Roughly 384 thousand square miles (994 thousand square km)</Text>
+			<Text>Ungefär 994 000 kvadratkilometer</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SCYTHIA_POPULATION">
-			<Text>Unknown, best guess is 40-50 thousand at peak</Text>
+			<Text>Okänt, kanske 40000-50000 som mest</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SCYTHIA_CAPITAL">
-			<Text>None (the only city mentioned in the histories is "Scythian Neapolis," destroyed by the Goths in 3rd Century AD)</Text>
+			<Text>Ingen (den enda staden som nämns i historiera är "Skytiska Neapolis", som förstördes av goterna på 200-talet)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SPAIN_LOCATION">
-			<Text>Europe</Text>
+			<Text>Europa</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SPAIN_SIZE">
-			<Text>Est. 195 thousand square miles (504.4 thousand square km)</Text>
+			<Text>Cirka 504 400 kvadratkilometer</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SPAIN_POPULATION">
-			<Text>Est. 47.6 million</Text>
+			<Text>Cirka 47,6 miljoner</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SPAIN_CAPITAL">
-			<Text>Madrid (mostly)</Text>
+			<Text>Madrid (mestadels)</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SUMERIA_LOCATION">
-			<Text>Asia</Text>
+			<Text>Asien</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SUMERIA_SIZE">
-			<Text>Impossible to say</Text>
+			<Text>Omöjligt att säga</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SUMERIA_POPULATION">
-			<Text>Est. between 1.1 and 1.5 million</Text>
+			<Text>Mellan 1,1 och 1,5 miljoner</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVINFO_SUMERIA_CAPITAL">
-			<Text>Many (Lagash, Eridu, Uruk, Kish, Ur, or wherever the current king hailed from)</Text>
+			<Text>Många (Lagash, Eridu, Uruk, Kish, Ur, eller den stad den nuvarande kungen kom från)</Text>
 		</Replace>
 		<!-- Uniques -->
 		<Replace  Language="sv_SE" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_FILM_STUDIO_NAME">

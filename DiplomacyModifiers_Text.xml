@@ -164,10 +164,10 @@
 		<Replace Language="sv_SE" Tag="LOC_DIPLO_MODIFIER_DISCIPLE_NOT_RECEIVED">
 			<Text>Mvemba is disappointed your religion is not in his lands</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DIPLO_MODIFIER_IRON_CReplaceN_NOT_INVOLVED">
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_NOT_INVOLVED">
 			<Text>Barbarossa is pleased you are staying away from city states</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DIPLO_MODIFIER_IRON_CReplaceN_INVOLVED">
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_INVOLVED">
 			<Text>Barbarossa is angered that you have been controlling city states</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLO_MODIFIER_SUN_SETS_HOME_CONTINENT">

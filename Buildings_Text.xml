@@ -127,7 +127,7 @@
 			<Text>Missionaries and Apostles can spread Religion 1 extra time. Must be built on flat land adjacent to a Holy Site district, and you must have founded a Religion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
-			<Text>Increases gReplaceth by 15% in all cities. Must be built next to a River.</Text>
+			<Text>Increases growth by 15% in all cities. Must be built next to a River.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BUILDING_HERMITAGE_DESCRIPTION">
 			<Text>Must be built along a River.</Text>

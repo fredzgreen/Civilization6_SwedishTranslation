@@ -10,10 +10,10 @@
 			<Text>...</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_YES_BUTTON">
-			<Text>Yes</Text>
+			<Text>Ja</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_NO_BUTTON">
-			<Text>No</Text>
+			<Text>Nej</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_OK_BUTTON">
 			<Text>OK</Text>
@@ -22,7 +22,7 @@
 			<Text>Default</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GENERIC_CONFIRM_BUTTON">
-			<Text>Confirm</Text>
+			<Text>Bekräfta</Text>
 		</Replace>
 		
 		<!-- Front End Popups -->
@@ -41,10 +41,10 @@
 
 		<!-- Main Menu-->
 		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_RESUME_GAME">
-			<Text>Resume Game</Text>
+			<Text>Återuppta spel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PLAY_CIVILIZATION_6">
-			<Text>Play Now</Text>
+			<Text>Spela nu</Text>
 		</Replace>
     <Replace Language="sv_SE" Tag="LOC_SINGLE_PLAYER">
       <Text>Single Player</Text>
@@ -53,13 +53,13 @@
 			<Text>Multiplayer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOAD_GAME">
-			<Text>Load Game</Text>
+			<Text>Ladda spel</Text>
 		</Replace>
     <Replace Language="sv_SE" Tag="LOC_NO_FILE_SELECTED">
       <Text>No file currently selected</Text>
     </Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_OPTIONS">
-			<Text>Game Options</Text>
+			<Text>Spelalternativ</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_MODS">
 			<Text>Mods</Text>
@@ -81,10 +81,10 @@
 		</Replace>
 		<!-- Load / Save Menus -->
 		<Replace Language="sv_SE" Tag="LOC_DELETE_BUTTON">
-			<Text>Delete</Text>
+			<Text>Radera</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BACK_BUTTON">
-			<Text>Back</Text>
+			<Text>Tillbaka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_AUTOSAVES">
 			<Text>Autosaves</Text>
@@ -102,35 +102,35 @@
 			<Text>Sort by Last Modified</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOAD_MENU_MODS">
-			<Text>MODS</Text>
+			<Text>MODDAR</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOAD_MENU_DLC">
 			<Text>DLC</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SAVE_GAME">
-			<Text>Save Game</Text>
+			<Text>Spara spel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SAVE_MAP_BUTTON">
-			<Text>Save Map</Text>
+			<Text>Spara karta</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
 			<Text>You've reached the maximum number of Cloud saves. Overwrite or delete a save.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SAVE_INVALID_FILE_NAME_TOOLTIP">
-			<Text>Invalid file name.</Text>
+			<Text>Ogiltigt filnamn.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP">
 			<Text>Waiting for cloud save list.</Text>
 		</Replace>
 
 		<Replace Language="sv_SE" Tag="LOC_CONFIRM_TITLE_TXT">
-			<Text>Confirm Overwrite</Text>
+			<Text>Bekräfta överskrivning</Text>
 		</Replace>
     <Replace Language="sv_SE" Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
-      <Text>Confirm Delete</Text>
+      <Text>Bekräfta radering</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_CONFIRM_CHOICE">
-      <Text>Are you sure?</Text>
+      <Text>Är du säker?</Text>
     </Replace>
 		<Replace Language="sv_SE" Tag="LOC_CONFIRM_EXIT_TXT">
 			<Text>Are you sure you want to exit the game?</Text>
@@ -175,13 +175,13 @@
 			<Text>Scenario Description</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE">
-			<Text>Game Options</Text>
+			<Text>Spelalternativ</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
-			<Text>Map Type:</Text>
+			<Text>Karttyp:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_SIZE_TITLE">
-			<Text>Map Size:</Text>
+			<Text>Kartstorlek:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_GAME_OPTIONS_WORLD_AGE_TITLE">
 			<Text>World Age:</Text>
@@ -190,7 +190,7 @@
 			<Text>Saved By Version:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_GAME_OPTIONS_ADVANCED_TITLE">
-			<Text>Advanced Options:</Text>
+			<Text>Avancerade alternativ:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_NO_MAP_DATA">
 			<Text>NO MAP DATA</Text>
@@ -203,16 +203,16 @@
 		</Replace>
 		<!-- Mods Section -->
 		<Replace Language="sv_SE" Tag="LOC_MODS_TITLE">
-			<Text>MODS</Text>
+			<Text>MODDAR</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MODS_INSTALLED">
-			<Text>INSTALLED</Text>
+			<Text>INSTALLERADE</Text>
 		</Replace>
  		<Replace Language="sv_SE" Tag="LOC_MODS_SUBSCRIPTIONS">
-			<Text>SUBSCRIPTIONS</Text>
+			<Text>PRENUMERATIONER</Text>
 		</Replace>
- 		<Replace Language="sv_SE" Tag="LOC_MODS_BReplaceSE_WORKSHOP">
-			<Text>BReplaceSE WORKSHOP</Text>
+ 		<Replace Language="sv_SE" Tag="LOC_MODS_BROWSE_WORKSHOP">
+			<Text>BROWSE WORKSHOP</Text>
 		</Replace>
  		<Replace Language="sv_SE" Tag="LOC_MODS_WORLD_BUILDER">
 			<Text>WORLD BUILDER</Text>
@@ -249,16 +249,16 @@
 			<Text>Number of Civilizations</Text>
 		</Replace>
     <Replace Language="sv_SE" Tag="LOC_PLAYERS">
-      <Text>Players</Text>
+      <Text>Spelare</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_BACK">
-      <Text>Back</Text>
+      <Text>Tillbaka</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_GAME_HANDICAP">
       <Text>Game Difficulty</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_MAP_OPTIONS">
-      <Text>Map Options</Text>
+      <Text>Kartalternativ</Text>
     </Replace>
 		<!-- Multiplayer Game Abandoned Popup -->
 		<Replace Language="sv_SE" Tag="LOC_GAME_ABANDONED_KICKED">
@@ -329,7 +329,7 @@
 			<Text>Play a multiplayer game where a dedicated server controls the game over a long period of time.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MENU_BACK">
-			<Text>Back</Text>
+			<Text>Tillbaka</Text>
 		</Replace>
 		<!-- Multiplayer Chat Commands -->
 		<Replace Language="sv_SE" Tag="LOC_CHAT_HELP_COMMAND_HINT">
@@ -353,13 +353,13 @@
 			<Text>Stop the game list information retrieval.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_BACK">
-			<Text>BACK</Text>
+			<Text>TILLBAKA</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_JOIN_GAME">
 			<Text>Join Game</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MISC_BACK">
-			<Text>Back</Text>
+			<Text>Tillbaka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP">
 			<Text>Connect to IP Address</Text>
@@ -368,7 +368,7 @@
 			<Text>Connect to a pitboss game at a given public IP address.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CREATE_GAME">
-			<Text>Create Game</Text>
+			<Text>Skapa spel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CONFIRM_SETTINGS">
 			<Text>Confirm Settings</Text>
@@ -383,7 +383,7 @@
 			<Text>Create a multiplayer game from an existing save.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_FRIENDS">
-			<Text>Friends</Text>
+			<Text>Vänner</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_SHOW_FRIENDS">
 			<Text>Show Friends List</Text>
@@ -401,22 +401,22 @@
 			<Text>Rule Set</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_AD_SETUP_MAP_TYPE">
-			<Text>Map Type</Text>
+			<Text>Karttyp</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_AD_SETUP_GAME_SPEED">
 			<Text>Game Speed</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_AD_SETUP_MAP_SIZE">
-			<Text>Map Size</Text>
+			<Text>Kartstorlek</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_PLAYERS">
-			<Text>Players</Text>
+			<Text>Spelare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_DLCHOSTED">
 			<Text>DLC</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_MODSHOSTED">
-			<Text>Mods</Text>
+			<Text>Moddar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
 			<Text>PITBOSS GAMES</Text>
@@ -457,22 +457,22 @@
       <Text>Confirm Key Binding</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_CONFIRM">
-      <Text>Confirm</Text>
+      <Text>Bekräfta</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_GAME">
-      <Text>Game</Text>
+      <Text>Spel</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_GRAPHICS">
-      <Text>Graphics</Text>
+      <Text>Grafik</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_AUDIO">
-      <Text>Audio</Text>
+      <Text>Ljud</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_LANGUAGE">
-      <Text>Language</Text>
+      <Text>Språk</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_INTERFACE">
-      <Text>Interface</Text>
+      <Text>Gränssnitt</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_BINDINGS">
       <Text>Key Bindings</Text>
@@ -481,19 +481,19 @@
       <Text>Application</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_GAME_OPTIONS">
-      <Text>Game Options</Text>
+      <Text>Spelalternativ</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
-      <Text>Graphics Options</Text>
+      <Text>Grafikalternativ</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_AUDIO_OPTIONS">
-      <Text>Audio Options</Text>
+      <Text>Ljudalternativ</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
-      <Text>Language Options</Text>
+      <Text>Språkalternativ</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
-      <Text>Interface Options</Text>
+      <Text>Gränssnittsalternativ</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
       <Text>Key Bindings</Text>
@@ -544,33 +544,33 @@
       <Text>Display Language:</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_MASTER_VOLUME">
-      <Text>Master Volume:</Text>
+      <Text>Huvudvolym:</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_MUSIC_VOLUME">
-      <Text>Music Volume:</Text>
+      <Text>Musikvolym:</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_EFFECTS_VOLUME">
-      <Text>Sound Effects Volume:</Text>
+      <Text>Ljudeffektsvolym:</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_AMBIENT_VOLUME">
-      <Text>Ambient Sounds Volume:</Text>
+      <Text>Bakgrundsljudsvolym:</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_SPEECH_VOLUME">
-      <Text>Speech Volume:</Text>
+      <Text>Talvolym:</Text>
     </Replace>
     <Replace Language="sv_SE" Tag="LOC_OPTIONS_MUTE_FOCUS">
       <Text>Mute when the game window is inactive:</Text>
     </Replace>
 		<Replace Language="sv_SE" Tag="LOC_OPTIONS_CLEAR">
-			<Text>Clear</Text>
+			<Text>Rensa</Text>
 		</Replace>
 		<!-- Front End Popop -->
 		<Replace Language="sv_SE" Tag="LOC_CLOSE">
-			<Text>Close</Text>
+			<Text>Stäng</Text>
 		</Replace>
 		<!-- Multiplayer Joining Room Screen -->
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_JOINING_ROOM_TITLE">
-			<Text>PLEASE WAIT</Text>
+			<Text>VAR GOD VÄNTA</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_JOINING_ROOM">
 			<Text>Joining Room...</Text>
@@ -1415,13 +1415,13 @@
 			<Text>From the first stirrings of life beneath water… to the great beasts of the Stone Age… to man taking his first upright steps, you have come far.  Now begins your greatest quest: from this early cradle of civilization on towards the stars.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
-			<Text>From humble beginnings, you have shown remarkable gReplaceth. Leave your bronze for iron and rule with horse and sword. The sky above begins to reveal its secrets, a collection of heaven that uplifts our hearts and guides us to foreign shores.</Text>
+			<Text>From humble beginnings, you have shown remarkable growth. Leave your bronze for iron and rule with horse and sword. The sky above begins to reveal its secrets, a collection of heaven that uplifts our hearts and guides us to foreign shores.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
-			<Text>You have built great cities of stone and seen early empires rise and fall.  Soon you will stand under the towering pinnacles of castles alongside your gallant knights. That is where the story of your people will be written. Just as the young apprentice learns to carry a sword, so shall you gReplace Language="sv_SE" To understand your place in this world.</Text>
+			<Text>You have built great cities of stone and seen early empires rise and fall.  Soon you will stand under the towering pinnacles of castles alongside your gallant knights. That is where the story of your people will be written. Just as the young apprentice learns to carry a sword, so shall you grow To understand your place in this world.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
-			<Text>New powers call forth, from the barrel of muskets to flowers of fire in the sky. Even the quiet words on newly printed pages hold great changes within. The world, once so vast and mysterious, has gReplacen smaller and more familiar. Yet, there are always questions to be answered, faiths to be tested, and national identities to be formed.</Text>
+			<Text>New powers call forth, from the barrel of muskets to flowers of fire in the sky. Even the quiet words on newly printed pages hold great changes within. The world, once so vast and mysterious, has grown smaller and more familiar. Yet, there are always questions to be answered, faiths to be tested, and national identities to be formed.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
 			<Text>The steady hum of machinery, the acrid smell of smoke, vision clouded by ash and soot – these are the signs of changing times. The lure of scientific and cultural advancement is the engine driving your realm forward.  Now your challenge is to maintain the delicate balance between earth and man, between peace and war.</Text>
@@ -1516,7 +1516,7 @@
 
 		<!-- Copyright screen -->
 		<Replace Language="sv_SE" Tag="LOC_COPYRIGHT_TEXT">
-			<Text>© 1991-2016 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2016 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2016 by RAD Game Tools Inc.  Fork Copyright © 2016 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2016 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD ArReplace logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2016 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
+			<Text>© 1991-2016 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2016 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2016 by RAD Game Tools Inc.  Fork Copyright © 2016 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2016 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2016 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COPYRIGHT_ACCEPT">
 			<Text>Continue</Text>
@@ -1549,7 +1549,7 @@
 			<Text>Your cultural greatness will attract all of the world's people to your empire. This is the most difficult victory to achieve.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_VICTORY_DOMINATION_TT">
-			<Text>Through military strength and pReplaceess, you bring the world to it's knees. This is the most basic victory to achieve.</Text>
+			<Text>Through military strength and prowess, you bring the world to it's knees. This is the most basic victory to achieve.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_VICTORY_RELIGIOUS_TT">
 			<Text>Spread your religion to the four corners of the Earth, bringing light to a dark World. You will have to master diplomatic relationships if you hope to convert the world to the one true religion.</Text>

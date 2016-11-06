@@ -227,7 +227,7 @@
 			<Text>I can only assume your reluctance to spread your religion comes from lack of conviction.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PEDRO_ANY">
-			<Text>Your finest engineers and architects would be happier in a place where they could gReplace. Brasil, for instance.</Text>
+			<Text>Your finest engineers and architects would be happier in a place where they could grow. Brasil, for instance.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PERICLES_ANY">
 			<Text>That city is ours. I would suggest you don’t interfere.</Text>

@@ -97,7 +97,7 @@
 			<Text>Faust</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREATWORK_GOETHE_2_NAME">
-			<Text>The SorReplaces of Young Werther</Text>
+			<Text>The Sorrows of Young Werther</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREATWORK_SHELLEY_1_NAME">
 			<Text>Frankenstein</Text>

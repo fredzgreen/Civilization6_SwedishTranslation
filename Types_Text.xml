@@ -608,7 +608,7 @@
 			<Text>Vilnius</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVILIZATION_YEREVAN_NAME">
-			<Text>Yerevan</Text>
+			<Text>Jerevan</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVILIZATION_ZANZIBAR_NAME">
 			<Text>Zanzibar</Text>

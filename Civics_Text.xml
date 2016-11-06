@@ -67,7 +67,7 @@
 			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
-			<Text>Awards 1 [ICON_Envoy] Envoy. Allows the building of National Parks and the purchase of Naturalists with [ICON_Faith] Faith. Allows Builders to plant Woods (second-gReplaceth). Woods in your territory that have never been removed (old-gReplaceth) gain +1 Appeal.</Text>
+			<Text>Awards 1 [ICON_Envoy] Envoy. Allows the building of National Parks and the purchase of Naturalists with [ICON_Faith] Faith. Allows Builders to plant Woods (second-growth). Woods in your territory that have never been removed (old-growth) gain +1 Appeal.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
 			<Text>Allows formation of Defensive Pacts. Allows forming three identical units into an Army or Armada. Allows one new Casus Belli that can be used to justify wars: War of Territorial Expansion.</Text>
@@ -107,7 +107,7 @@
 			<Text>Build any district.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_EARLY_EMPIRE">
-			<Text>GReplace your civilization to at least 6 population.</Text>
+			<Text>Grow your civilization to at least 6 population.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MYSTICISM">
 			<Text>Found a pantheon.</Text>
@@ -140,7 +140,7 @@
 			<Text>Build 6 Farms.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CIVIL_SERVICE">
-			<Text>GReplace a city to 10 population.</Text>
+			<Text>Grow a city to 10 population.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MERCENARIES">
 			<Text>Have 8 land combat units in your military.</Text>
@@ -188,7 +188,7 @@
 			<Text>Build an Archaeological Museum.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_URBANIZATION">
-			<Text>GReplace a city to 15 population.</Text>
+			<Text>Grow a city to 15 population.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SCORCHED_EARTH">
 			<Text>Build 2 Field Cannons.</Text>
@@ -252,7 +252,7 @@
 			<Text>Bringing our first district online has proven the value of conscripting workers for state projects.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_EARLY_EMPIRE">
-			<Text>The gReplaceing number of citizens in your lands dream of having an empire.</Text>
+			<Text>The growing number of citizens in your lands dream of having an empire.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MYSTICISM">
 			<Text>Worship of your pantheon of gods has brought up further questions about spiritual forces in our world.</Text>
@@ -294,7 +294,7 @@
 			<Text>The increase of commerce through your lands will soon attract a trade fair.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUILDS">
-			<Text>The success of your commercial districts has spurred the gReplaceth of trade guilds.</Text>
+			<Text>The success of your commercial districts has spurred the growth of trade guilds.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIVINE_RIGHT">
 			<Text>Your devout people believe strongly that your rule is a blessing from the divine.</Text>
@@ -309,7 +309,7 @@
 			<Text>The legwork to build an alliance has trained up your first corps of diplomats.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_REFORMED_CHURCH">
-			<Text>The gReplaceth of your Religion comes with the danger of schism. Reforming corrupt church practices better happen soon!</Text>
+			<Text>The growth of your Religion comes with the danger of schism. Reforming corrupt church practices better happen soon!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCANTILISM">
 			<Text>Your new Great Merchant is sharing ideas on how we can get the edge on our economic competitors.</Text>
@@ -333,7 +333,7 @@
 			<Text>With a museum now ready to hold your findings, it is time to see what you can discover out in the natural world.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_URBANIZATION">
-			<Text>Your large city is getting overcReplaceded. It's time to start planning for some suburbs.</Text>
+			<Text>Your large city is getting overcrowded. It's time to start planning for some suburbs.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCORCHED_EARTH">
 			<Text>Modern warfare is clearly a brutal affair.  Your military doctrine is starting to reflect some of these principles of total war.</Text>
@@ -561,7 +561,7 @@
 			<Text>+4 [ICON_Food] Food from domestic [ICON_TradeRoute] Trade Routes.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
-			<Text>+15% faster gReplaceth for cities not on your original [ICON_Capital] Capital's continent.</Text>
+			<Text>+15% faster growth for cities not on your original [ICON_Capital] Capital's continent.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
 			<Text>+25% [ICON_Gold] Gold in cities not on your original [ICON_Capital] Capital's continent.</Text>

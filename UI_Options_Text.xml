@@ -930,16 +930,16 @@
 			<Text>Page Down</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_LEFT">
-			<Text>Left ArReplace</Text>
+			<Text>Left Arrow</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_UP">
-			<Text>Up ArReplace</Text>
+			<Text>Up Arrow</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_RIGHT">
-			<Text>Right ArReplace</Text>
+			<Text>Right Arrow</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_DOWN">
-			<Text>Down ArReplace</Text>
+			<Text>Down Arrow</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_SEMICOLON">
 			<Text>;</Text>

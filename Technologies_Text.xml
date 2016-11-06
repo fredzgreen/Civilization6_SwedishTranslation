@@ -378,7 +378,7 @@
 			<Text>Let us apply our industrial acumen to your newly-constructed shipyards. Steam-powered naval vessels could rule the seas.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
-			<Text>With the introduction of neighborhoods, our cities are gReplaceing larger than ever before.  Developing a sanitation plan is crucial.</Text>
+			<Text>With the introduction of neighborhoods, our cities are growing larger than ever before.  Developing a sanitation plan is crucial.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
 			<Text>The power of your banks in on the rise.  It is time to formally study the forces that are shaping your national economy.</Text>
@@ -426,7 +426,7 @@
 			<Text>With facilities for aircrafts in multiple cities, your aeronautic industry is taking off.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
-			<Text>With your pioneers in radio and television leading the way, you’ve gReplacen adept at transmitting data quickly.</Text>
+			<Text>With your pioneers in radio and television leading the way, you’ve grown adept at transmitting data quickly.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
 			<Text>Your military has defeated an enemy plane. Now it is time to have the best defense against enemy aircraft.</Text>

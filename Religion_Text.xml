@@ -292,7 +292,7 @@
 		</Replace>
 		<!--Pantheon - General Purpose-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
-			<Text>City gReplaceth rate is 10% higher.</Text>
+			<Text>City growth rate is 10% higher.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_DESCRIPTION">
 			<Text>Border expansion rate is 15% higher.</Text>

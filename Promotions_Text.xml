@@ -56,8 +56,8 @@
 		<Replace Language="sv_SE" Tag="LOC_PROMOTION_GARRISON_NAME">
 			<Text>Garrison</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PROMOTION_ARReplace_STORM_NAME">
-			<Text>ArReplace Storm</Text>
+		<Replace Language="sv_SE" Tag="LOC_PROMOTION_ARROW_STORM_NAME">
+			<Text>Arrow Storm</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PROMOTION_INCENDIARIES_NAME">
 			<Text>Incendiaries</Text>
@@ -410,7 +410,7 @@
 		<Replace Language="sv_SE" Tag="LOC_PROMOTION_GARRISON_DESCRIPTION">
 			<Text>+10 [ICON_Strength] Combat Strength when occupying a district or Fort.</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PROMOTION_ARReplace_STORM_DESCRIPTION">
+		<Replace Language="sv_SE" Tag="LOC_PROMOTION_ARROW_STORM_DESCRIPTION">
 			<Text>+7 [ICON_Ranged] Ranged Strength vs. land and naval units.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PROMOTION_INCENDIARIES_DESCRIPTION">

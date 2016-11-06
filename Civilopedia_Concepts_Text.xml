@@ -27,22 +27,22 @@
 			<Text>Where to Construct Cities</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Cities should be constructed in locations with plenty of [ICON_Food] Food and [ICON_Production] Production and with access to Strategic, Luxury, and Bonus resources. It is often a good idea to build a city on a River or coastal hex, as sources of water are very important to a gReplaceing [ICON_Citizen] Population. Cities constructed on Hills gain a defensive bonus, making it harder for enemies to capture them.</Text>
+			<Text>Cities should be constructed in locations with plenty of [ICON_Food] Food and [ICON_Production] Production and with access to Strategic, Luxury, and Bonus resources. It is often a good idea to build a city on a River or coastal hex, as sources of water are very important to a growing [ICON_Citizen] Population. Cities constructed on Hills gain a defensive bonus, making it harder for enemies to capture them.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_2">
 			<Text>With a Settler selected, ideal city locations will be shown on the map with an icon. Additionally, every Settler after your first will show the Settler Lens, giving you an idea of where on the map will provide the best source of water for your city, and indicating unavailable tiles.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_TITLE">
-			<Text>GReplaceth</Text>
+			<Text>Growth</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_1">
-			<Text>Your city will gReplace, or add more [ICON_Citizen] Citizens, with surplus [ICON_Food] Food. Any amount of [ICON_Food] Food over the total consumption of a city's [ICON_Citizen] Citizens, 2 per, is considered surplus, and is added as progress towards a new [ICON_Citizen] Citizen.</Text>
+			<Text>Your city will grow, or add more [ICON_Citizen] Citizens, with surplus [ICON_Food] Food. Any amount of [ICON_Food] Food over the total consumption of a city's [ICON_Citizen] Citizens, 2 per, is considered surplus, and is added as progress towards a new [ICON_Citizen] Citizen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_2">
-			<Text>A city will add all surplus [ICON_Food] Food towards gReplaceth if its current [ICON_Citizen] Population is 2 or more below the city's [ICON_Housing] Housing limit. If the city is 1 [ICON_Citizen] Population below its [ICON_Housing] Housing limit, its gReplaceth will slow to 50%. When the [ICON_Citizen] Population is at the [ICON_Housing] Housing limit, it will gReplace only at 75% the normal rate. A city can gReplace Language="sv_SE" To 5 [ICON_Citizen] Citizens over its [ICON_Housing] Housing limit at this rate, and then it will stop gReplaceing entirely.</Text>
+			<Text>A city will add all surplus [ICON_Food] Food towards growth if its current [ICON_Citizen] Population is 2 or more below the city's [ICON_Housing] Housing limit. If the city is 1 [ICON_Citizen] Population below its [ICON_Housing] Housing limit, its growth will slow to 50%. When the [ICON_Citizen] Population is at the [ICON_Housing] Housing limit, it will grow only at 75% the normal rate. A city can grow To 5 [ICON_Citizen] Citizens over its [ICON_Housing] Housing limit at this rate, and then it will stop growing entirely.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_3">
-			<Text>A city will stagnate and not gReplace if it does not have surplus [ICON_Food] Food. If it makes less [ICON_Food] Food than its [ICON_Citizen] Citizens consume, the city will starve and slowly lose [ICON_Citizen] Population until it is able to support itself again.</Text>
+			<Text>A city will stagnate and not grow if it does not have surplus [ICON_Food] Food. If it makes less [ICON_Food] Food than its [ICON_Citizen] Citizens consume, the city will starve and slowly lose [ICON_Citizen] Population until it is able to support itself again.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_TITLE">
 			<Text>Food</Text>
@@ -156,13 +156,13 @@
 			<Text>Citizens</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_8_CHAPTER_CONTENT_PARA_1">
-			<Text>Cities thrive based upon the land around them. Their [ICON_Citizen] Citizens "work" the land, harvesting [ICON_Food] Food, [ICON_Gold] Gold, [ICON_Production] Production, [ICON_Science] Science, and many other yields from the tiles. [ICON_Citizen] Citizens can work tiles that are within three tiles' distance from the city and that are within your civilization's borders. As your city gReplaces, it automatically assigns its [ICON_Citizen] Citizens to work the lands around it. It seeks to provide a balanced amount of [ICON_Food] Food, [ICON_Production] Production, and [ICON_Gold] Gold. You may order a city's [ICON_Citizen] Citizens to work other tiles – for example, if you want a certain city to concentrate on generating [ICON_Gold] Gold, or [ICON_Production] Production, select the Manage Citizens icon in the City Selection Panel to choose specific tiles for your [ICON_Citizen] Citizens to work.</Text>
+			<Text>Cities thrive based upon the land around them. Their [ICON_Citizen] Citizens "work" the land, harvesting [ICON_Food] Food, [ICON_Gold] Gold, [ICON_Production] Production, [ICON_Science] Science, and many other yields from the tiles. [ICON_Citizen] Citizens can work tiles that are within three tiles' distance from the city and that are within your civilization's borders. As your city grows, it automatically assigns its [ICON_Citizen] Citizens to work the lands around it. It seeks to provide a balanced amount of [ICON_Food] Food, [ICON_Production] Production, and [ICON_Gold] Gold. You may order a city's [ICON_Citizen] Citizens to work other tiles – for example, if you want a certain city to concentrate on generating [ICON_Gold] Gold, or [ICON_Production] Production, select the Manage Citizens icon in the City Selection Panel to choose specific tiles for your [ICON_Citizen] Citizens to work.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_16_CHAPTER_CONTENT_TITLE">
 			<Text>Happiness</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_16_CHAPTER_CONTENT_PARA_1">
-			<Text>Happiness measures the contentment of your people in a single city, and is measured by seeing if the [ICON_Citizen] Population of that city has as many [ICON_Amenities] Amenities as expected. 1 [ICON_Amenities] Amenity is required for each 2 [ICON_Citizen] Population, start at a [ICON_Citizen] Population of 3. A content city will not have any modifier applied to it, but a happy city will have a 10% gReplaceth increase and a 5% yield increase. Furthermore, an Ecstatic city will have a 20% gReplaceth increase and 10% yield increase. Likewise, having too few [ICON_Amenities] Amenities will create displeasure among your [ICON_Citizen] Citizens, and the gReplaceth and yields will receive negative modifiers. At the level of unrest, your gReplaceth will stop and you may find rebel partisans in your city.</Text>
+			<Text>Happiness measures the contentment of your people in a single city, and is measured by seeing if the [ICON_Citizen] Population of that city has as many [ICON_Amenities] Amenities as expected. 1 [ICON_Amenities] Amenity is required for each 2 [ICON_Citizen] Population, start at a [ICON_Citizen] Population of 3. A content city will not have any modifier applied to it, but a happy city will have a 10% growth increase and a 5% yield increase. Furthermore, an Ecstatic city will have a 20% growth increase and 10% yield increase. Likewise, having too few [ICON_Amenities] Amenities will create displeasure among your [ICON_Citizen] Citizens, and the growth and yields will receive negative modifiers. At the level of unrest, your growth will stop and you may find rebel partisans in your city.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_TITLE">
 			<Text>Amenity Sources</Text>
@@ -177,7 +177,7 @@
 			<Text>Specialists</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_1">
-			<Text>Specialists are alternative assignments for [ICON_Citizen] Citizens, which involve working a district tile instead of a normal tile. As a general rule, specialists are a good way to get yields otherwise hard to find on normal tiles, but the city needs a solid support base of [ICON_Food] Food to support them in the long term. Specialists are also particularly useful when a city gReplaces large later in the game, and has more [ICON_Citizen] Population than there are normal tiles to work. There are different types of specialists, each with different effects. All specialist types except the generic [ICON_Citizen] Citizen have a limit on how many assignments there can be in a city. This limit is determined by the number of buildings in the district associated with that specialist type.</Text>
+			<Text>Specialists are alternative assignments for [ICON_Citizen] Citizens, which involve working a district tile instead of a normal tile. As a general rule, specialists are a good way to get yields otherwise hard to find on normal tiles, but the city needs a solid support base of [ICON_Food] Food to support them in the long term. Specialists are also particularly useful when a city grows large later in the game, and has more [ICON_Citizen] Population than there are normal tiles to work. There are different types of specialists, each with different effects. All specialist types except the generic [ICON_Citizen] Citizen have a limit on how many assignments there can be in a city. This limit is determined by the number of buildings in the district associated with that specialist type.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_WORLD_NAME">
 			<Text>The World</Text>
@@ -267,10 +267,10 @@
 			<Text>War Weariness</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Having a nation that is constantly at war will diminish the productivity and happiness of your people. War weariness gReplaces for every battle you fight. This accumulation is worse when those battles occur in foreign territory or when your units are killed. It is worse still if those units are killed by a nuclear weapon, but launching a nuclear weapon yourself is the greatest source of war weariness. All war weariness you accumulate is increased if you declared war without using a Casus Belli.</Text>
+			<Text>Having a nation that is constantly at war will diminish the productivity and happiness of your people. War weariness grows for every battle you fight. This accumulation is worse when those battles occur in foreign territory or when your units are killed. It is worse still if those units are killed by a nuclear weapon, but launching a nuclear weapon yourself is the greatest source of war weariness. All war weariness you accumulate is increased if you declared war without using a Casus Belli.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_2">
-			<Text>War weariness is applied to every city you own as a negative [ICON_Amenities] Amenity, lowering your city gReplaceth and productivity. Having low [ICON_Amenities] Amenities for too long can cause rebel partisans to spawn in your cities. These hostile units will attack your units and pillage your tiles and districts.</Text>
+			<Text>War weariness is applied to every city you own as a negative [ICON_Amenities] Amenity, lowering your city growth and productivity. Having low [ICON_Amenities] Amenities for too long can cause rebel partisans to spawn in your cities. These hostile units will attack your units and pillage your tiles and districts.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_3">
 			<Text>While war weariness will slowly reduce while you are still at war, it reduces at a greatly increased rate when you are not at war with any player.</Text>

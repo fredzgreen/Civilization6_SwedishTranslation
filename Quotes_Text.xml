@@ -5,7 +5,7 @@
 			<Text>“Organisms don't think of CO2 as a poison. Plants and organisms that make shells, coral, think of it as a building block.”[NEWLINE]– Janine Benyus</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_FEATURE_CLIFFS_DOVER_QUOTE">
-			<Text>“Under the White Cliff’s battlemented cReplacen, Hushed to a depth of more than Sabbath peace.”[NEWLINE]– William Wordsworth</Text>
+			<Text>“Under the White Cliff’s battlemented crown, Hushed to a depth of more than Sabbath peace.”[NEWLINE]– William Wordsworth</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_FEATURE_CRATER_LAKE_QUOTE">
 			<Text>“Never again can I gaze upon the beauty spots of the Earth and enjoy them as being the finest thing I have ever seen. Crater Lake is above them all.”[NEWLINE]– Jack London</Text>
@@ -74,10 +74,10 @@
 			<Text>“The man who has grit enough to bring about the afforestation or the irrigation of a country is not less worthy of honor than its conqueror.” [NEWLINE]– Sir John Thomson</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ARCHERY_QUOTE_1">
-			<Text>“I shot an arReplace into the air. It fell to earth, I knew not where.” [NEWLINE]– Henry Wadsworth Longfellow</Text>
+			<Text>“I shot an arrow into the air. It fell to earth, I knew not where.” [NEWLINE]– Henry Wadsworth Longfellow</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ARCHERY_QUOTE_2">
-			<Text>“May the forces of evil become confused while your arReplace is on its way to the target.” [NEWLINE]– George Carlin</Text>
+			<Text>“May the forces of evil become confused while your arrow is on its way to the target.” [NEWLINE]– George Carlin</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_WRITING_QUOTE_1">
 			<Text>“Writing means sharing. It’s part of the human condition to want to share things – thoughts, ideas, opinions.” [NEWLINE]– Paulo Coelho</Text>
@@ -113,7 +113,7 @@
 			<Text>“Wealth consists not in having great possessions, but in having few wants.” [NEWLINE]- Epictetus</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CURRENCY_QUOTE_2">
-			<Text>“Money, if it does not bring you happiness, will at least help you be miserable in comfort.”[NEWLINE] – Helen Gurley BReplacen</Text>
+			<Text>“Money, if it does not bring you happiness, will at least help you be miserable in comfort.”[NEWLINE] – Helen Gurley Brown</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_HORSEBACK_RIDING_QUOTE_1">
 			<Text>“No hour of life is wasted that is spent in the saddle.” [NEWLINE]– Winston Churchill</Text>
@@ -392,7 +392,7 @@
 			<Text>“The single biggest problem in communication is the illusion that it has taken place.” [NEWLINE]– George Bernard Shaw</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SATELLITES_QUOTE_1">
-			<Text>“A satellite has no conscience.” [NEWLINE]– Edward R. MurReplace</Text>
+			<Text>“A satellite has no conscience.” [NEWLINE]– Edward R. Murrow</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SATELLITES_QUOTE_2">
 			<Text>“Right now there are thirty-one satellites zipping around the world with nothing better to do than help you find your way to the grocery store.” [NEWLINE]– Ed Burnette</Text>
@@ -539,7 +539,7 @@
 			<Text>“In democracy it’s your vote that counts; in feudalism it’s your count that votes.” [NEWLINE]– Mogens Jallberg</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVIC_FEUDALISM_QUOTE_2">
-			<Text>“With the advance of feudalism came the gReplaceth of iron armor, until, at last, a fighting-man resembled an armadillo.” [NEWLINE]– John Boyle O’Reilly</Text>
+			<Text>“With the advance of feudalism came the growth of iron armor, until, at last, a fighting-man resembled an armadillo.” [NEWLINE]– John Boyle O’Reilly</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVIC_CIVIL_SERVICE_QUOTE_1">
 			<Text>“It’s all papers and forms, the entire civil service is like a fortress made of papers, forms and red tape.” [NEWLINE] – Alexander Ostrovsky</Text>
@@ -644,7 +644,7 @@
 			<Text>“I only understand friendship or scorched earth.” [NEWLINE]– Roger Ailes</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVIC_URBANIZATION_QUOTE_1">
-			<Text>“It’s the Industrial Revolution and the gReplaceth of urban concentrations that led to a sense of anonymity.” [NEWLINE]– Vint Cerf</Text>
+			<Text>“It’s the Industrial Revolution and the growth of urban concentrations that led to a sense of anonymity.” [NEWLINE]– Vint Cerf</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVIC_URBANIZATION_QUOTE_2">
 			<Text>“What I like about cities is that everything is king size, the beauty and the ugliness.” [NEWLINE]– Joseph Brodsky</Text>
@@ -785,7 +785,7 @@
 			<Text>As a young boy my brother Nobunori studied the Chinese classics, and I liked to sit in and listen to his lessons. I found that even when he struggled to understand or memorize passages, I would find them remarkably easy. My father, a well-read man himself, often used to lament this fact, saying, 'Such a shame. Would that you were born a man!'</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREATWORK_MURASAKI_2_QUOTE">
-			<Text>New grass, you don’t even know where to sprout and gReplace. How can I, a drop of dew, vanish away in the air leaving you alone?</Text>
+			<Text>New grass, you don’t even know where to sprout and grow. How can I, a drop of dew, vanish away in the air leaving you alone?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREATWORK_CAVENDISH_1_QUOTE">
 			<Text>Out of this Room there was a passage into the Emperor's Bed-Chamber, the Walls whereof were of Jet, and the Floor of black Marble; the Roof was of Mother of Pearl, where the Moon and Blazing-Stars were represented by white Diamonds, and his Bed was made of Diamonds and Carbuncles.</Text>
@@ -809,7 +809,7 @@
 			<Text>O, swear not by the moon, the inconstant moon,[NEWLINE]That monthly changes in her circled orb,[NEWLINE]Lest that thy love prove likewise variable.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREATWORK_SHAKESPEARE_2_QUOTE">
-			<Text>To be, or not to be? That is the question—[NEWLINE]Whether ’tis nobler in the mind to suffer[NEWLINE]The slings and arReplaces of outrageous fortune,[NEWLINE]Or to take arms against a sea of troubles,[NEWLINE]And, by opposing, end them?</Text>
+			<Text>To be, or not to be? That is the question—[NEWLINE]Whether ’tis nobler in the mind to suffer[NEWLINE]The slings and arrows of outrageous fortune,[NEWLINE]Or to take arms against a sea of troubles,[NEWLINE]And, by opposing, end them?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREATWORK_D_AULNOY_1_QUOTE">
 			<Text>And because she was so beautiful they called her Princess Goldilocks; for her hair was finer than gold, wonderfully fair, and it fell in ringlets to her feet.</Text>
@@ -821,7 +821,7 @@
 			<Text>Dreams, dreams! Where have you gone? How sweet you were.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREATWORK_PUSHKIN_2_QUOTE">
-			<Text>Like some magistrate gReplacen gray in office,[NEWLINE]Calmly he contemplates alike the just[NEWLINE]And unjust, with indifference he notes[NEWLINE]Evil and good, and knows not wrath nor pity.</Text>
+			<Text>Like some magistrate grown gray in office,[NEWLINE]Calmly he contemplates alike the just[NEWLINE]And unjust, with indifference he notes[NEWLINE]Evil and good, and knows not wrath nor pity.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREATWORK_POE_1_QUOTE">
 			<Text>"Villains!" I shrieked, "dissemble no more! I admit the deed! --tear up the planks! here, here! --It is the beating of his hideous heart!"</Text>

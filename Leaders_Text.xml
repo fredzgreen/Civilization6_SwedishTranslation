@@ -7,13 +7,13 @@
 			<Text>a representative</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_BARBAROSSA_NAME">
-			<Text>Frederick Barbarossa</Text>
+			<Text>Fredrik Barbarossa</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_CATHERINE_DE_MEDICI_NAME">
-			<Text>Catherine de Medici</Text>
+			<Text>Katarina av Medici</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_CLEOPATRA_NAME">
-			<Text>Cleopatra</Text>
+			<Text>Kleopatra</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_GANDHI_NAME">
 			<Text>Gandhi</Text>
@@ -25,28 +25,28 @@
 			<Text>Gorgo</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_HARDRADA_NAME">
-			<Text>Harald Hardrada</Text>
+			<Text>Harald Hårdråde</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_HOJO_NAME">
-			<Text>Hojo Tokimune</Text>
+			<Text>Hōjō Tokimune</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_MVEMBA_NAME">
 			<Text>Mvemba a Nzinga</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_PEDRO_NAME">
-			<Text>Pedro II</Text>
+			<Text>Peter II</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_PERICLES_NAME">
-			<Text>Pericles</Text>
+			<Text>Perikles</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_PETER_GREAT_NAME">
 			<Text>Peter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_PHILIP_II_NAME">
-			<Text>Philip II</Text>
+			<Text>Filip II</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_QIN_NAME">
-			<Text>Qin Shi Huang</Text>
+			<Text>Qin Shi Huangdi</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_SALADIN_NAME">
 			<Text>Saladin</Text>
@@ -55,13 +55,13 @@
 			<Text>Tomyris</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_TRAJAN_NAME">
-			<Text>Trajan</Text>
+			<Text>Trajanus</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_T_ROOSEVELT_NAME">
 			<Text>Teddy Roosevelt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_VICTORIA_NAME">
-			<Text>Victoria</Text>
+			<Text>Viktoria</Text>
 		</Replace>
 		<!--Agenda Names-->
 		<Replace Language="sv_SE" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_NAME">
@@ -97,8 +97,8 @@
 		<Replace Language="sv_SE" Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_NAME">
 			<Text>Patron of the Arts</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_AGENDA_IRON_CReplaceN_NAME">
-			<Text>Iron CReplacen</Text>
+		<Replace Language="sv_SE" Tag="LOC_AGENDA_IRON_CROWN_NAME">
+			<Text>Iron Crown</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_AGENDA_LAST_VIKING_KING_NAME">
 			<Text>Last Viking King</Text>
@@ -227,7 +227,7 @@
 		<Replace Language="sv_SE" Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_DESCRIPTION">
 			<Text>Likes civilizations who are not competing for Great People, and will recruit Great People whenever possible. Dislikes losing a Great Person to another civilization.</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_AGENDA_IRON_CReplaceN_DESCRIPTION">
+		<Replace Language="sv_SE" Tag="LOC_AGENDA_IRON_CROWN_DESCRIPTION">
 			<Text>Likes civilizations who do not associate with city-states. Does not like Suzerains of city-states, or civilizations who conquered city-states.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_AGENDA_LAST_VIKING_KING_DESCRIPTION">

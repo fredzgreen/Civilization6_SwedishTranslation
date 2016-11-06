@@ -146,13 +146,13 @@
 		</Replace>
 		<!-- AI accepts Human invitation -->
 		<Replace Language="sv_SE" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_ANY_ANY">
-			<Text>By all means.  It will be a pleasure to see your gReplaceing city up close.</Text>
+			<Text>By all means.  It will be a pleasure to see your growing city up close.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MVEMBA_ANY">
 			<Text>Yes, yes. This is good for us.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>By all means.  It will be a pleasure to see your gReplaceing city up close.</Text>
+			<Text>By all means.  It will be a pleasure to see your growing city up close.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CLEOPATRA_ANY">
 			<Text>Very well.</Text>

@@ -348,11 +348,11 @@
 		<Replace Language="sv_SE" Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_SUMMARY">
 			<Text>{1_CityName} needs more [ICON_Amenities] Amenities to keep it productive. If this gets worse, people may rebel against us!</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GReplaceTH_MESSAGE">
+		<Replace Language="sv_SE" Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_MESSAGE">
 			<Text>Need More Housing</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GReplaceTH_SUMMARY">
-			<Text>{1_CityName} needs more [ICON_Housing] Housing to keep gReplaceing. If this continues, we will have difficulty gaining new [ICON_Citizen] Citizens.</Text>
+		<Replace Language="sv_SE" Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_SUMMARY">
+			<Text>{1_CityName} needs more [ICON_Housing] Housing to keep growing. If this continues, we will have difficulty gaining new [ICON_Citizen] Citizens.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_NOTIFICATION_CITY_STARVING_MESSAGE">
 			<Text>City Starving!</Text>
@@ -364,7 +364,7 @@
 			<Text>City Needs Food</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_SUMMARY">
-			<Text>{1_CityName} does not provide enough [ICON_Food] Food for its people to gReplace. Consider focusing your city on [ICON_Food] Food.</Text>
+			<Text>{1_CityName} does not provide enough [ICON_Food] Food for its people to grow. Consider focusing your city on [ICON_Food] Food.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_MESSAGE">
 			<Text>Treasury Bankrupt!</Text>

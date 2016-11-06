@@ -116,7 +116,7 @@
 			<Text>I wanted to avoid this, you know, but your idea of peace left me no choice.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TOMYRIS_ANY">
-			<Text>The Empress calls for your head. You will be dReplacened in your own blood!</Text>
+			<Text>The Empress calls for your head. You will be drowned in your own blood!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TRAJAN_ANY">
 			<Text>Prepare yourselves for war. Our armies will stop at nothing; our navies will swarm your shores, for the glory of Rome.</Text>

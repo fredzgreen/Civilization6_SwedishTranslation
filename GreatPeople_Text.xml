@@ -10,7 +10,7 @@
 			<Text>Create Great Work</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREATPERSON_ACTION_NAME_FOUND_RELIGION">
-			<Text>Found Religion</Text>
+			<Text>Grunda religion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREATPERSON_ACTION_NAME_RETIRE">
 			<Text>Retire</Text>
@@ -103,7 +103,7 @@
 			<Text>{1_GreatWorkName} ({2_GreatWorkObjectIconString} {3_GreatWorkObjectName}).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREATPERSON_PASSIVE_NAME_DEFAULT">
-			<Text>Passive Effect</Text>
+			<Text>Passiv effekt</Text>
 		</Replace>
 		<!-- Shared by Multiple Classes -->
 		<Replace Language="sv_SE" Tag="LOC_GREATPERSON_GOLD">

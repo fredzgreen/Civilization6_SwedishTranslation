@@ -376,7 +376,7 @@
 			<Text>You need to select a civic to progress toward.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_FILL_CIVIC_SLOT_TOOLTIP">
-			<Text>A policy in our government has gReplacen obsolete and needs to be replaced.</Text>
+			<Text>A policy in our government has grown obsolete and needs to be replaced.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_CONSIDER_GOVERNMENT_CHANGE_TOOLTIP">
 			<Text>The Civic you completed has unlocked a new Government. Consider changing to it this turn.</Text>
@@ -884,8 +884,8 @@
 		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_TURNS_STARVATION">
 			<Text>{1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;} until starvation.</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_TURNS_GReplaceTH">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;} until gReplaceth.</Text>
+		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_TURNS_GROWTH">
+			<Text>{1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;} until growth.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_TURNS_LEFT_UNTIL_COMPLETE">
 			<Text>{1_Turns : plural 1?{1_Turns} turn; other? {1_Turn} turns;} left until complete.</Text>
@@ -993,8 +993,8 @@
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_CITIZENS_SATISFIED">
 			<Text>Citizens are satisfied, no positive or negative effects.</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_CITIZEN_GReplaceTH">
-			<Text>Citizen GReplaceth</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_CITIZEN_GROWTH">
+			<Text>Citizen Growth</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_CITY_BREAKDOWN">
 			<Text>City Breakdown</Text>
@@ -1026,17 +1026,17 @@
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_FOR">
 			<Text>for</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_GReplaceTH_FOOD_PER_TURN">
-			<Text>GReplaceth food per turn</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_GROWTH_FOOD_PER_TURN">
+			<Text>Growth food per turn</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_GReplaceTH_IN">
-			<Text>GReplaceth in</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_GROWTH_IN">
+			<Text>Growth in</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_GReplaceTH_OCCUPIED">
-			<Text>Occupied: no gReplaceth</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_GROWTH_OCCUPIED">
+			<Text>Occupied: no growth</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HAPPINESS_GReplaceTH_BONUS">
-			<Text>Amenities gReplaceth bonus</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HAPPINESS_GROWTH_BONUS">
+			<Text>Amenities growth bonus</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HOUSING">
 			<Text>Housing</Text>
@@ -1104,7 +1104,7 @@
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_LAUNCH_ICBM">
 			<Text>Launch ICBM</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_MODIFIED_GReplaceTH_FOOD_PER_TURN">
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_MODIFIED_GROWTH_FOOD_PER_TURN">
 			<Text>Modified food per turn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_OF">
@@ -1125,8 +1125,8 @@
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_NO_WONDERS">
 			<Text>No Wonders have been built.</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_OTHER_GReplaceTH_BONUSES">
-			<Text>Other gReplaceth bonuses</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_OTHER_GROWTH_BONUSES">
+			<Text>Other growth bonuses</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_OWNER">
 			<Text>Owner: {1_Owner}</Text>
@@ -1137,17 +1137,17 @@
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POPULATION">
 			<Text>Population</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POPULATION_GReplaceTH_ABOVE_AVERAGE">
-			<Text>Population gReplaceth rate above average.</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POPULATION_GROWTH_ABOVE_AVERAGE">
+			<Text>Population growth rate above average.</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POPULATION_GReplaceTH_HALTED">
-			<Text>Population gReplaceth rate halted.</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POPULATION_GROWTH_HALTED">
+			<Text>Population growth rate halted.</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POPULATION_GReplaceTH_NORMAL">
-			<Text>Population gReplaceth rate normal.</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POPULATION_GROWTH_NORMAL">
+			<Text>Population growth rate normal.</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POPULATION_GReplaceTH_SLOWED">
-			<Text>Population gReplaceth rate slowed {1_Pct}%.</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POPULATION_GROWTH_SLOWED">
+			<Text>Population growth rate slowed {1_Pct}%.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POSSIBLE">
 			<Text>Possible</Text>
@@ -1245,11 +1245,11 @@
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TRADING_POSTS">
 			<Text>Trading Posts</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_GReplaceTH_VALUE">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;} until gReplaceth</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_GROWTH_VALUE">
+			<Text>{1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;} until growth</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_BORDER_GReplaceTH">
-			<Text>{1_Turns : plural 1? turn; other? turns;} until border gReplaceth</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_BORDER_GROWTH">
+			<Text>{1_Turns : plural 1? turn; other? turns;} until border growth</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_CITIZEN_BORN">
 			<Text>{1_Turns : plural 1? {1_Turns} turn; other?{1_Turns} turns;} until a new citizen is born</Text>
@@ -1263,8 +1263,8 @@
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_COMPLETED">
 			<Text>{1_Turns : plural 1? turn; other? turns;} until completed</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_GReplaceTH">
-			<Text>{1_Turns : plural 1? turn; other? turns;} until gReplaceth</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_GROWTH">
+			<Text>{1_Turns : plural 1? turn; other? turns;} until growth</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_LOSS">
 			<Text>{1_Turns : plural 1? turn; other? turns;} until loss</Text>
@@ -1346,7 +1346,7 @@
 			<Text>Requires [ICON_Citizen] Population of {1_Population} or greater.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW">
-			<Text>The city needs to gReplace Language="sv_SE" To population {1_Population} before another district can be added.</Text>
+			<Text>The city needs to grow To population {1_Population} before another district can be added.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_NO_SUITABLE_LOCATION">
 			<Text>No suitable location to zone this district.</Text>
@@ -2373,8 +2373,8 @@
 		<Replace Language="sv_SE" Tag="LOC_OPERATION_REMOVE_FEATURE_YIELDS_SCIENCE_AMOUNT">
 			<Text>Yields {1_Amount} [ICON_Science] {2_Yield}</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPERATION_REMOVE_FEATURE_SECOND_GReplaceTH">
-			<Text>[COLOR_RED]No yield from removing second-gReplaceth {1_Feature}.[ENDCOLOR]</Text>
+		<Replace Language="sv_SE" Tag="LOC_OPERATION_REMOVE_FEATURE_SECOND_GROWTH">
+			<Text>[COLOR_RED]No yield from removing second-growth {1_Feature}.[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_YIELDS">
 			<Text>+{1_Amount} {2_Icon} {3_YieldType}</Text>
@@ -4703,8 +4703,8 @@
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_POPULATION">
 			<Text>Population</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_GReplaceTH_RATE_STATUS">
-			<Text>GReplaceth Rate Status</Text>
+		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_GROWTH_RATE_STATUS">
+			<Text>Growth Rate Status</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_HOUSING">
 			<Text>Housing</Text>
@@ -4763,19 +4763,19 @@
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_PER_TURN">
 			<Text>{1_Yield} Per Turn</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_Replace_BUILDING_EXPENSES">
+		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_ROW_BUILDING_EXPENSES">
 			<Text>Building Expenses</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_Replace_CITY_INCOME">
+		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_ROW_CITY_INCOME">
 			<Text>City Income</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_Replace_DIPLOMATIC_DEALS">
+		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_ROW_DIPLOMATIC_DEALS">
 			<Text>Diplomatic Deals</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_Replace_PROJECT_EXPENSES">
+		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_ROW_PROJECT_EXPENSES">
 			<Text>Project Expenses</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_Replace_UNIT_EXPENSES">
+		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_ROW_UNIT_EXPENSES">
 			<Text>Unit Expenses</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_SOURCES">
@@ -5083,11 +5083,11 @@
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLOT_WONDER_TEXT">
 			<Text>Wonder:[NEWLINE]</Text>
 		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLOT_WOODS_OLD_GReplaceTH">
-			<Text>(old-gReplaceth)</Text>
+		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLOT_WOODS_OLD_GROWTH">
+			<Text>(old-growth)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLOT_WOODS_SECONDARY">
-			<Text>(second-gReplaceth)</Text>
+			<Text>(second-growth)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_OPTIONS_SET_KEY_BINDING_TEXT">
 			<Text>Press the desired keyboard or mouse button you wish to bind.  To cancel, click the Cancel button or press Escape.  To clear the binding, click the Clear button.</Text>
