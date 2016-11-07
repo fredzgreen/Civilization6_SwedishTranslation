@@ -1,3 +1,4 @@
+Nytt repository här : https://github.com/fredzgreen/Civilization6_SwedishTranslation2
 # Civilization6_SwedishTranslation
 Ett projekt för att översätta Civilization 6 till Svenska
 
