@@ -1,5 +1,5 @@
 Nytt repository här : https://github.com/fredzgreen/Civilization6_SwedishTranslation2
-# Civilization6_SwedishTranslation
+# Obsolete look here instead : https://github.com/fredzgreen/Civilization6_SwedishTranslation2
 Ett projekt för att översätta Civilization 6 till Svenska
 
 För att testa skapa en mapp "Text" här: 
